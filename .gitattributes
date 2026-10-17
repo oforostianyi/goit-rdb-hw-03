@@ -1,0 +1,3 @@
+data/*.csv -text
+*.ipynb text eol=lf
+*.md text eol=lf
